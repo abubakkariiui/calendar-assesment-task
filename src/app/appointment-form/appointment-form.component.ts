@@ -74,8 +74,7 @@ import { v4 as uuidv4 } from 'uuid';
     small {
       color: red;
       font-size: 12px;
-    }n-self: flex-start;
-}
+    }
   `]
 })
 export class AppointmentFormComponent implements OnInit {
